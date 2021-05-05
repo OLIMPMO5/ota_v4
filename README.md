@@ -1,6 +1,7 @@
 Markup
 
-```{
+```
+{
    "error": false,
    "datetime": , // values as given on ro.build.date.utc
    "filehash": "",
