@@ -1,10 +1,10 @@
 {
   "error": false,
-  "datetime": 1620235682,
-  "filename": "PixelExperience_Plus_A6020-10.0-20210505-1729-FISURI-OFFICIAL.zip",
-  "filehash": "4250a8ac8652cfc1e3c6999f0df5fcfb",
-  "id": "cca0f879a3c742617c78c8fe582c1bfe81cd2a0610c4aa9766280c717eb1f154",
-  "size": 910451259,
-  "url": "github release",
+  "datetime": 1620270058,
+  "filename": "PixelExperience_Plus_A6020-10.0-20210506-0305-FISURI-OFFICIAL.zip",
+  "filehash": "feb6abfc414f4688b085cab36b9f7689",
+  "id": "4c0313cfc05ddd5ee9910d6a565059481352bb30ad2048bcb99ebf20ba2d07bc",
+  "size": 910466781,
+  "url": "https://github.com/OLIMPMO5/OTA/releases/download/3/PixelExperience_Plus_A6020-10.0-20210506-0305-FISURI-OFFICIAL.zip",
   "version": "ten_fisuri"
 }
